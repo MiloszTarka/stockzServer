@@ -1,0 +1,324 @@
+{
+  "data": [
+    {
+      "name": "Microsoft Corporation",
+      "symbol": "MSFT",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "stock_exchange": {
+        "name": "NASDAQ Stock Exchange",
+        "acronym": "NASDAQ",
+        "mic": "XNAS",
+        "country": "USA",
+        "country_code": "US",
+        "city": "New York",
+        "website": "www.nasdaq.com"
+      }
+    },
+    {
+      "name": "Apple Inc",
+      "symbol": "AAPL",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "stock_exchange": {
+        "name": "NASDAQ Stock Exchange",
+        "acronym": "NASDAQ",
+        "mic": "XNAS",
+        "country": "USA",
+        "country_code": "US",
+        "city": "New York",
+        "website": "www.nasdaq.com"
+      }
+    },
+    {
+      "name": "Amazon.com Inc",
+      "symbol": "AMZN",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "stock_exchange": {
+        "name": "NASDAQ Stock Exchange",
+        "acronym": "NASDAQ",
+        "mic": "XNAS",
+        "country": "USA",
+        "country_code": "US",
+        "city": "New York",
+        "website": "www.nasdaq.com"
+      }
+    },
+    {
+      "name": "Alphabet Inc - Class C",
+      "symbol": "GOOG",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "stock_exchange": {
+        "name": "NASDAQ Stock Exchange",
+        "acronym": "NASDAQ",
+        "mic": "XNAS",
+        "country": "USA",
+        "country_code": "US",
+        "city": "New York",
+        "website": "www.nasdaq.com"
+      }
+    },
+    {
+      "name": "Alphabet Inc - Class A",
+      "symbol": "GOOGL",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "stock_exchange": {
+        "name": "NASDAQ Stock Exchange",
+        "acronym": "NASDAQ",
+        "mic": "XNAS",
+        "country": "USA",
+        "country_code": "US",
+        "city": "New York",
+        "website": "www.nasdaq.com"
+      }
+    },
+    {
+      "name": "Alibaba Group Holding Ltd",
+      "symbol": "BABA",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "stock_exchange": {
+        "name": "New York Stock Exchange",
+        "acronym": "NYSE",
+        "mic": "XNYS",
+        "country": "USA",
+        "country_code": "US",
+        "city": "New York",
+        "website": "www.nyse.com"
+      }
+    },
+    {
+      "name": "Meta Platforms Inc - Class A",
+      "symbol": "META",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "stock_exchange": {
+        "name": "NASDAQ Stock Exchange",
+        "acronym": "NASDAQ",
+        "mic": "XNAS",
+        "country": "USA",
+        "country_code": "US",
+        "city": "New York",
+        "website": "www.nasdaq.com"
+      }
+    },
+    {
+      "name": "BERKSHIRE HATHAWAY INC",
+      "symbol": "BRK-B",
+      "has_intraday": false,
+      "has_eod": false,
+      "country": null,
+      "stock_exchange": {
+        "name": "New York Stock Exchange",
+        "acronym": "NYSE",
+        "mic": "XNYS",
+        "country": "USA",
+        "country_code": "US",
+        "city": "New York",
+        "website": "www.nyse.com"
+      }
+    },
+    {
+      "name": "BERKSHIRE HATHAWAY INC",
+      "symbol": "BRK-A",
+      "has_intraday": false,
+      "has_eod": false,
+      "country": null,
+      "stock_exchange": {
+        "name": "New York Stock Exchange",
+        "acronym": "NYSE",
+        "mic": "XNYS",
+        "country": "USA",
+        "country_code": "US",
+        "city": "New York",
+        "website": "www.nyse.com"
+      }
+    },
+    {
+      "name": "Vodafone Group plc",
+      "symbol": "VOD",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "stock_exchange": {
+        "name": "NASDAQ Stock Exchange",
+        "acronym": "NASDAQ",
+        "mic": "XNAS",
+        "country": "USA",
+        "country_code": "US",
+        "city": "New York",
+        "website": "www.nasdaq.com"
+      }
+    },
+    {
+      "name": "Visa Inc - Class A",
+      "symbol": "V",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "stock_exchange": {
+        "name": "New York Stock Exchange",
+        "acronym": "NYSE",
+        "mic": "XNYS",
+        "country": "USA",
+        "country_code": "US",
+        "city": "New York",
+        "website": "www.nyse.com"
+      }
+    },
+    {
+      "name": "JPMorgan Chase & Company",
+      "symbol": "JPM",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "stock_exchange": {
+        "name": "New York Stock Exchange",
+        "acronym": "NYSE",
+        "mic": "XNYS",
+        "country": "USA",
+        "country_code": "US",
+        "city": "New York",
+        "website": "www.nyse.com"
+      }
+    },
+    {
+      "name": "Johnson & Johnson",
+      "symbol": "JNJ",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "stock_exchange": {
+        "name": "New York Stock Exchange",
+        "acronym": "NYSE",
+        "mic": "XNYS",
+        "country": "USA",
+        "country_code": "US",
+        "city": "New York",
+        "website": "www.nyse.com"
+      }
+    },
+    {
+      "name": "Walmart Inc",
+      "symbol": "WMT",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "stock_exchange": {
+        "name": "New York Stock Exchange",
+        "acronym": "NYSE",
+        "mic": "XNYS",
+        "country": "USA",
+        "country_code": "US",
+        "city": "New York",
+        "website": "www.nyse.com"
+      }
+    },
+    {
+      "name": "Mastercard Incorporated - Class A",
+      "symbol": "MA",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "stock_exchange": {
+        "name": "New York Stock Exchange",
+        "acronym": "NYSE",
+        "mic": "XNYS",
+        "country": "USA",
+        "country_code": "US",
+        "city": "New York",
+        "website": "www.nyse.com"
+      }
+    },
+    {
+      "name": "Procter & Gamble Company",
+      "symbol": "PG",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "stock_exchange": {
+        "name": "New York Stock Exchange",
+        "acronym": "NYSE",
+        "mic": "XNYS",
+        "country": "USA",
+        "country_code": "US",
+        "city": "New York",
+        "website": "www.nyse.com"
+      }
+    },
+    {
+      "name": "Taiwan Semiconductor Manufacturing",
+      "symbol": "TSM",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "stock_exchange": {
+        "name": "New York Stock Exchange",
+        "acronym": "NYSE",
+        "mic": "XNYS",
+        "country": "USA",
+        "country_code": "US",
+        "city": "New York",
+        "website": "www.nyse.com"
+      }
+    },
+    {
+      "name": "Chunghwa Telecom",
+      "symbol": "CHT",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "stock_exchange": {
+        "name": "New York Stock Exchange",
+        "acronym": "NYSE",
+        "mic": "XNYS",
+        "country": "USA",
+        "country_code": "US",
+        "city": "New York",
+        "website": "www.nyse.com"
+      }
+    },
+    {
+      "name": "Roche Holding AG",
+      "symbol": "RHHBF",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "stock_exchange": {
+        "name": "OTC Markets",
+        "acronym": "",
+        "mic": "OTCM",
+        "country": "USA",
+        "country_code": "US",
+        "city": "New York",
+        "website": "www.otcmarkets.com"
+      }
+    },
+    {
+      "name": "Roche Holding AG",
+      "symbol": "RHHVF",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "stock_exchange": {
+        "name": "OTC Markets",
+        "acronym": "",
+        "mic": "OTCM",
+        "country": "USA",
+        "country_code": "US",
+        "city": "New York",
+        "website": "www.otcmarkets.com"
+      }
+    }
+  ]
+}
