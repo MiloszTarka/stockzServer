@@ -18,7 +18,6 @@ import java.util.*
 @Scope("session")
 @Service
 object StocksService : IStockService {
-
     var suggestions = JSONArray()
 
     val STOCKS_ARRAY_ID = "6382aa4c48ae81f92a008e03"
