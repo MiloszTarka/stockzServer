@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController
 @Scope("request")
 class NewsController(val newsRepository: NewsRepository) {
 
-    val NEWS_ARRAY_ID = "6382b033fd118b9e979ffa99"
+    val NEWS_ARRAY_ID = "65ad7a8f0c900555335dbabc"
 
     val logger: Logger = LoggerFactory.getLogger(NewsController::class.java)
 

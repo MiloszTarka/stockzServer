@@ -20,7 +20,7 @@ import java.util.*
 object StocksService : IStockService {
     var suggestions = JSONArray()
 
-    val STOCKS_ARRAY_ID = "6382aa4c48ae81f92a008e03"
+    val STOCKS_ARRAY_ID = "65ad7a6f0c900555335dbab8"
     val days : Int = 8
     val daysFactor = 4.0 / (days + 1)
     val logger: Logger = LoggerFactory.getLogger(StocksService::class.java)
